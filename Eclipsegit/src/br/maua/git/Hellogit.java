@@ -7,7 +7,7 @@ public class Hellogit {
 		System.out.println("Hello Git ...");
 			System.out.println ("Hello Git - alterando no GitHub");
 				System.out.println("Hello Git - Modificando no Eclipse!!!");
-					System.out.println ("Olá mundo.....")
+					System.out.println ("Olá mundo.....");
 	}
 
 }
